@@ -10,6 +10,10 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>Spring-01-servlet</module>
+        <module>Spring-02-helloMVC</module>
+        <module>Spring-02-new</module>
+        <module>Spring-03-annotation</module>
+        <module>Spring-04-controller</module>
     </modules>
 
     <dependencies>
